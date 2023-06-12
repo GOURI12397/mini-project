@@ -1,3 +1,3 @@
 # mini-project
-#Synopsis
-#####Abstract
+# Synopsis
+############### Abstarct
