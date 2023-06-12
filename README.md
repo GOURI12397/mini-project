@@ -22,7 +22,6 @@ Stability in SRAM when designed using the Complementary Metal–Oxide– Semicon
 ![Untitled](https://github.com/GOURI12397/mini-project/assets/119784144/b45e1571-5623-4208-b9a3-dca157d71a55)
 
 **TIME SCHEDULE **
-**TIME SCHEDULE **
 
 |
 **Week 1** |
