@@ -19,3 +19,12 @@ analysis is estimated in 6T-SRAM designed and implemented in 90nm technology.
 Stability in SRAM when designed using the Complementary Metal–Oxide– Semiconductor (CMOS) technologies generally depend on the SNM. SRAM memory technology is used because of its speed and robustness. As the device is scaled down in sizes several design challenges arise in the nanometer size SRAM design. In an SRAM cell operation generally supply voltage scaling is performed. The minimum voltage also referred as DRV is the needed for a SRAM cell to store the data. Reducing the VDD reduces subthreshold leakage current and gate leakage. Conversely, when VDD is reduced too far data loss occurs in SRAM. The DRV is applied to preserve data in the bit cells of SRAM. For analyzing high speed SRAM calculation of read margin and WM is necessary. A significant vision in this paper is to analyze 6T SRAM cell is based on noise marginal by evaluating the DRV, Read Margin and Write Margin. Nowadays focus is on low supply voltage which reduces the SNM. The stability of SRAM cell can be analyzed based on the SNM value because performance is proportional to the SNM. Therefore, as SNM reduces the performance of SRAM cell also reduces or vice versa. For improving the performance of a 6T SRAM cell parameter such as Cell Ratio (CR), Pull up Ratio (PR), Voltage Supplies (VDD) is generally considered. 
 
 ## Block Diagram
+![Untitled](https://github.com/GOURI12397/mini-project/assets/119784144/b45e1571-5623-4208-b9a3-dca157d71a55)
+
+**TIME SCHEDULE **
+
+| **Week 1** |Studied about Literature Review. |
+
+| **Week 2** | Studied about Cadence Tool and did some simple circuits. |
+
+|**Week3** | By referring some research paper implemented an Invertor and Analyzed the output also obtained schematic diagram, waveform &calculated delay. |
