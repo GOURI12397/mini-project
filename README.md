@@ -22,9 +22,13 @@ Stability in SRAM when designed using the Complementary Metal–Oxide– Semicon
 ![Untitled](https://github.com/GOURI12397/mini-project/assets/119784144/b45e1571-5623-4208-b9a3-dca157d71a55)
 
 **TIME SCHEDULE **
+**TIME SCHEDULE **
 
-| **Week 1** |Studied about Literature Review. |
-
-| **Week 2** | Studied about Cadence Tool and did some simple circuits. |
-
-|**Week3** | By referring some research paper implemented an Invertor and Analyzed the output also obtained schematic diagram, waveform &calculated delay. |
+|
+**Week 1** |
+Studied about Literature Review. |
+| --- | --- |
+|
+   **Week 2** | Studied about Cadence Tool and did some simple circuits. |
+|
+**Week3** | By referring some research paper implemented an Invertor and Analyzed the output also obtained schematic diagram, waveform &calculated delay. |
