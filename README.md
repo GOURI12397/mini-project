@@ -20,3 +20,12 @@ Stability in SRAM when designed using the Complementary Metal–Oxide– Semicon
 
 ## Block Diagram
 ![Untitled](https://github.com/GOURI12397/mini-project/assets/119784144/85507c0c-a9cb-4d37-81cf-8c450839b64c)
+
+## REFERENCES
+1. Shin C, Cho MH, Tsukmoto Y, Nguyen BY, Mazure C, Nikolic B, Liu TTK. Performance and area scaling benefits of FD-SOI technology for 6-T SRAM Cells at the 22-nm Node, IEEE Transactions on electron devices. 2010 Jun; 57(6). 13. Chandrak
+2. Keerthi R, Chen H. Stability and SNM analysis of low power SRAM. IEEE International Instrumentation and Measurement Technology Conference, Victoria Canada; 2008 May. p.1541–4.
+3. Christiensen D.C. Arandilla, Anastacia B. Alvarez, and Christian Raymund K. Roque “Static Noise Margin of 6T SRAM Cell in 90-nm CMOS” IEEE UKSim 13th International Conference on Modelling and Simulation, pp534-539, 2011.
+4. Prajna Mishra, Eugene John and Wei-Ming Lin “Static Noise Margin and Power Dissipation Analysis of various SRAM Topologies” IEEE 56th International Midest Symposium on Circuits and System.
+5. Calhoun, B.H., and Chandrakasan, A.: 'Analyzing static noise margin for sub-threshold SRAM in 65nm CMOS', Solid-State Circuits Conference, Proceedings of the 31st European, 2005, pp. 363-366ms (MWSCAS), pp469-472, 2013.
+6.. Arora G, Poonam, Singh A, SNM Analysis of SRAM Cells at 45nm, 32nm and 22nm technology, International Journal of Engineering Research and General Science. 2014 Jun–Jul; 2(4):785–9.
+
